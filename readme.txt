@@ -6,3 +6,4 @@ creating a new branch is quick and simple
 add merge
 add branch
 add dev
+add cp dev
